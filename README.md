@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "A Novel Method for Handwritten Digit Recognition System"<br>🤝Collaborated with IBM for the current project<br>I’m currently learning the Artificial Intelligence Domain🌱 <br>🏫Information Technology<br>🔫 Shoot me an email or add me on LinkedIn<br>
+Thinking about what project i should do next<br>🔭 Recent work is on "A Novel Method for Handwritten Digit Recognition System"<br>🤝Collaborated with IBM for the last project<br>I’m currently surfing through Artificial Intelligence Domain🌱 <br>🏫Information Technology<br>🔫 Shoot me an email or add me on LinkedIn<br>
 
 
 ## 🌐 Socials:
